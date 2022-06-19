@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "firstname": "kokila",
+      "lastname": "satish",
+      "dob": "2022-06-01",
+      "gender": "female",
+      "status": "Active",
+      "id": 16
+    },
+    {
+      "firstname": "satish",
+      "lastname": "kumar",
+      "dob": "2022-06-02",
+      "gender": "male",
+      "status": "Active",
+      "id": 17
+    },
+    {
+      "firstname": "kokila",
+      "lastname": "satish",
+      "dob": "2022-06-02",
+      "gender": "female",
+      "status": "Active",
+      "id": 18
+    },
+    {
+      "firstname": "shanvi",
+      "lastname": "kumar",
+      "dob": "2022-06-17",
+      "gender": "female",
+      "status": "Active",
+      "id": 19
+    },
+    {
+      "firstname": "kokila",
+      "lastname": "satish",
+      "dob": "2022-06-10",
+      "gender": "female",
+      "status": "Active",
+      "id": 20
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
